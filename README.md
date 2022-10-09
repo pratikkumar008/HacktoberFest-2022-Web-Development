@@ -30,7 +30,7 @@ Website Link : https://hacktoberfest.com/
 
 <h2>📌Repository</h2>
 
-This repository contains all the projects realed to web development.
+This repository contains all the projects realed to web development. <br>
 **This repo is aimed at people who are new to Open-Source, earn and learn from that experience.**
 **Languages** : HTML, CSS, JavaScript
 
